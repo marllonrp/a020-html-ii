@@ -15,7 +15,7 @@
   main, .b{
     height: 90vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: stretch;
   }
   
@@ -42,3 +42,13 @@
     color: white;
   }
   
+img {
+  width: 300px;
+  height: 300px;
+  
+}
+
+video {
+  width: 300px;
+  height: 300px;
+}
